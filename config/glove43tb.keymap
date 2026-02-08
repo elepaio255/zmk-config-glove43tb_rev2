@@ -151,7 +151,7 @@
             bindings = <
 &trans  &trans  &trans  &trans  &trans                                     &trans  &trans    &trans    &trans    &trans
 &trans  &trans  &trans  &trans  &trans  &trans      &kp LG(LEFT_BRACKET)   &trans  &mkp MB1  &mkp MB3  &mkp MB2  &trans
-&trans  &trans  &trans  &trans  &trans  &trans      &kp LG(RIGHT_BRACKET)  &trans  &trans    &trans    &trans    &trans
+&trans  &trans  &trans  &trans  &trans  &trans      &kp LG(RIGHT_BRACKET)  &trans  &mkp MB4  &trans    &mkp MB5  &trans
 &trans  &trans  &trans  &trans  &trans  &trans      &trans                 &trans                                &trans
             >;
         };
