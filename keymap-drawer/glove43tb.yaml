@@ -265,8 +265,8 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   '6':
-  - Gui+LEFT ARROW
-  - Gui+RIGHT ARROW
+  - Ctl+LEFT ARROW
+  - Ctl+RIGHT ARROW
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
