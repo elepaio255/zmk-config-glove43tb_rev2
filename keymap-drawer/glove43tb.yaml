@@ -208,7 +208,7 @@ layers:
   - Gui+]
   - {t: ▽, type: trans}
   - '&mkp MB4'
-  - Ctl+UP ARROW
+  - {t: ▽, type: trans}
   - '&mkp MB5'
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
